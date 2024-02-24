@@ -7,6 +7,7 @@ draft: false
 description : "Isang Kusing"
 
 # product Price
+price: "1700.00"
 priceBefore: "2590.00"
 
 # Product Short Description
