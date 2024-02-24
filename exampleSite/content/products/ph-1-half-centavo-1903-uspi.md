@@ -4,7 +4,7 @@ date: 2024-02-23T11:22:16+06:00
 draft: false
 
 # meta description
-description : "Isang Kusing"
+description : "PH-1"
 
 # product Price
 price: "1700.00"
