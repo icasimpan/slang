@@ -31,3 +31,7 @@ The Philippine half-centavo coin (½¢), a denomination of Philippine currency, 
 Filipino sculptor Melecio Figueroa was hired to design the coin. It features a man with a hammer and anvil, seating in front of Mayon Volcano.
 
 In 1903 and 1904, the US mint at Philadelphia struck bronze-minted half-centavo coins for circulation.[3] Eventually, the coin was withdrawn from circulation because it was rejected by Filipinos for its low value. After 1908, all remaining half centavos were melted.
+
+- https://www.numismatics.ph/coins/under-us-sovereignty/half-centavo.html
+- https://en.wikipedia.org/wiki/Philippine_half-centavo_coin
+- https://en.numista.com/catalogue/pieces4354.html
