@@ -8,7 +8,6 @@ description : "PH-1"
 
 # product Price
 price: "1700.00"
-priceBefore: "2590.00"
 
 # Product Short Description
 shortDescription: "The Philippine half-centavo coin (½¢), a denomination of Philippine currency, was issued when the Philippines was under US administration."
